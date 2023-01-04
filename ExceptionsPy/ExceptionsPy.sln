@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYEx", "PYEx\PYEx.pyproj", "{FE0EED0D-73C7-471D-951A-98DCC46753E3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Excersise", "Еььцерцисе\Excersise.pyproj", "{171021D1-A38C-44D4-A2B3-3CBDE13A8294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0EED0D-73C7-471D-951A-98DCC46753E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0EED0D-73C7-471D-951A-98DCC46753E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171021D1-A38C-44D4-A2B3-3CBDE13A8294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171021D1-A38C-44D4-A2B3-3CBDE13A8294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758F82A3-6BC6-4CE0-A8A1-0FA136F45C34}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Courtage", "Courtage\Courtage.pyproj", "{09D9A4AB-51C7-4C3F-B825-66C3F13F1213}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zad 3 CountSymbols", "Zad 3 CountSymbols\Zad 3 CountSymbols.pyproj", "{1C729EB6-2B1C-4AC9-8C29-8D9EA5DF6A0F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zad 2 List", "Zad 2 List\Zad 2 List.pyproj", "{70C5A5EB-6E25-408D-9B01-D242B5DB2213}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zad 4", "Zad 4\Zad 4.pyproj", "{C5E96AB3-B6F2-4C0F-A31A-C9C16B92E11B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "List", "List\List.pyproj", "{0247FE53-F099-429D-A730-F6212A4A79EB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tuple", "Tuple\Tuple.pyproj", "{15013A46-95D3-4016-9FAF-E48DD2D9A4C0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dictionary", "Dictionary\Dictionary.pyproj", "{EF70E19D-B242-450E-9C88-DDF441DD5EE2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sets", "Sets\Sets.pyproj", "{5AF9AC69-541B-4857-944B-C6EB71430B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D9A4AB-51C7-4C3F-B825-66C3F13F1213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D9A4AB-51C7-4C3F-B825-66C3F13F1213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C729EB6-2B1C-4AC9-8C29-8D9EA5DF6A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C729EB6-2B1C-4AC9-8C29-8D9EA5DF6A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C5A5EB-6E25-408D-9B01-D242B5DB2213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C5A5EB-6E25-408D-9B01-D242B5DB2213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E96AB3-B6F2-4C0F-A31A-C9C16B92E11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E96AB3-B6F2-4C0F-A31A-C9C16B92E11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0247FE53-F099-429D-A730-F6212A4A79EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0247FE53-F099-429D-A730-F6212A4A79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15013A46-95D3-4016-9FAF-E48DD2D9A4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15013A46-95D3-4016-9FAF-E48DD2D9A4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF70E19D-B242-450E-9C88-DDF441DD5EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF70E19D-B242-450E-9C88-DDF441DD5EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF9AC69-541B-4857-944B-C6EB71430B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF9AC69-541B-4857-944B-C6EB71430B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1811B2B8-BD3C-4F1E-87DB-7E97EC326706}
+	EndGlobalSection
+EndGlobal

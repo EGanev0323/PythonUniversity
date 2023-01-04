@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ModulPY", "ModulPY\ModulPY.pyproj", "{7653BB9C-5AE8-450D-8032-4B501152CABF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Module@", "Module@\Module@.pyproj", "{3B0076BF-29AC-4DC6-99A9-E6BC4A3713C2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Packages", "DirFunc\Packages.pyproj", "{A7E21E9B-3D21-48FA-B06C-902778678217}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Excersises1", "Excersises\Excersises1.pyproj", "{E347501E-B45C-47F2-BC92-587205FB7880}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Excersises2", "Excersises2\Excersises2.pyproj", "{438945DF-61B7-492D-B682-56CDF2B2A609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7653BB9C-5AE8-450D-8032-4B501152CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7653BB9C-5AE8-450D-8032-4B501152CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0076BF-29AC-4DC6-99A9-E6BC4A3713C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0076BF-29AC-4DC6-99A9-E6BC4A3713C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E21E9B-3D21-48FA-B06C-902778678217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E21E9B-3D21-48FA-B06C-902778678217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E347501E-B45C-47F2-BC92-587205FB7880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E347501E-B45C-47F2-BC92-587205FB7880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438945DF-61B7-492D-B682-56CDF2B2A609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438945DF-61B7-492D-B682-56CDF2B2A609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F930B3-238A-466A-B7AC-E3E9BBD7A904}
+	EndGlobalSection
+EndGlobal
